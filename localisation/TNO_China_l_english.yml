@@ -98,20 +98,20 @@
  CHI_Hardworking_People:0 "열심히 일하는 사람들"
  CHI_Hardworking_People_desc:0 "중국인들은 수세기동안의 고난과 굴욕에 시달림에도 불구하고 쉽게 포기하지 않았습니다. 국민들의 의지는 그 어느때보다 강합니다. 실패 후의 실패를 겪게되면 대부분의 나라들은 포기한 상태가 되었을 것입니다. 중국은 그들 중 하나가 아닙니다. 우리 민족은 우리의 실패로부터 더욱 강해지며, 현대적인 중국을 건설하려는 의지는 더욱 강해졌습니다."
  
- CHI_Restricted_Army:0 "Restricted Army"
+ CHI_Restricted_Army:0 "제한된 군대"
  CHI_Restricted_Army_desc:0 "Using Gao's experience as a diplomat, we have won some concessions from Tokyo regarding the reformation of our pathetic guard into an army capable of conducting necessary operations. Our triumph in the negotiations has led to an uptick in our recruitment, but our political opponents remind us that the Japanese maintain the final say when it comes to all matters of our army."
  CHI_Little_Brother_Army:0 "The Little Brother Army"
  CHI_Little_Brother_Army_desc:0 "Careful maneuvering and sweet-talking with Japan has altered our status in their eyes. Japan refuses to acknowledge the equal status of China and Japan but we've secured the next best thing. Japan has adopted a brother mentality, Japan will yield a larger army for safeguarding the Sphere while we make an army suitable for our home."
- CHI_Necessary_Army:0 "Necessary Army Expansion"
+ CHI_Necessary_Army:0 "군비 확장의 필요성"
  CHI_Necessary_Army_desc:0 "Gao's political maneuvering has reached its climax. Realizing that we must work together to secure Asia, Japan has granted us the remit to fully expand our army. Once we implement our reforms, the Chinese army will be feared once again."
- CHI_China_Navy:0 "A Chinese Navy"
+ CHI_China_Navy:0 "중국 해군"
  CHI_China_Navy_desc:0 "Japanese naval dominance has been questioned only once by the Yanks who were forced to realize Asia isn't their playground. Since then, the Americans have licked their wounds and are prepared to take the fight to Tokyo once again. We will assist Japan in keeping Asia's waters free with a fully Chinese navy."
 
  CHI_edu_debuff_placeholder:0 "[CHI.GetEduStatusTitle]"
  CHI_education_status_modifier:0 "중국의 교육상황"
- CHI_edu_very_bad_title:0 "중국의 교육상황 - 낙후"
- CHI_edu_bad_title:0 "중국의 교육상황 - 부족"
- CHI_edu_ok_title:0 "중국의 교육상황 - 보통이하"
+ CHI_edu_very_bad_title:0 "중국의 교육상황 - 낙후됨"
+ CHI_edu_bad_title:0 "중국의 교육상황 - 부족함"
+ CHI_edu_ok_title:0 "중국의 교육상황 - 평균 이하"
  CHI_edu_good_title:0 "중국의 교육상황 - 개선됨"
  CHI_edu_very_good_title:0 "중국의 교육상황 - 현대화됨"
  CHI_edu_debuff_placeholder_desc:0 "§BStability:§! [?CHI.CHI_edu_debuff_stab|%+2=]\n§BWar Support:§! [?CHI.CHI_edu_debuff_warsup|%+2=]\n§BProduction Efficiency Cap:§! [?CHI.CHI_edu_debuff_effcap|%+2=]\n§BResource Gain Efficiency:§! [?CHI.CHI_edu_debuff_exc|%+2=]\n§BPolitical Power Gain:§! [?CHI.CHI_edu_debuff_pol|+2=]\n§BConstruction Speed:§! [?CHI.CHI_edu_debuff_const|%+2=]\n§BResearch Speed:§! [?CHI.CHI_edu_debuff_research|%+2=]\n§B--------------§!\n[CHI.GetEduStatusDesc]"
@@ -137,7 +137,7 @@
  ChiNanjingPpBad:0 "§R[?CHI_nanjing_shockwave_pol]%§!"
  ChiNanjingPpZero:0"§L0%§!"
 
- CHI_econ_links_YUN:0 "Economic Links with the Yun-Gui Region"
+ CHI_econ_links_YUN:0 "원구이와의 경제적 연계Economic Links with the Yun-Gui Region"
 
  CHI_coop_econ:0 "중국과의 경제협력"
  CHI_coop_econ_desc:0 "우리는 중화민국과 상호 이익이 되는 무협협정을 체결하였습니다. 이 특별한 협정은 국경을 넘나드는 무역을 위한 독점적인 철도 이용특권을 부여하고, 산업자본과 농업자본의 가격을 낮추며, 대부분의 수출품에 품질검증을 확실히 공인하게합니다. 이 협력은 우리의 현재 경제적 잠재력을 향상시키는데 큰 도움이 되고 있습니다."
@@ -148,33 +148,33 @@
  
  #Ministers
 
- CHI_Gao_Zongwu_hog:0 "Gao Zongwu"
- CHI_Chen_Gongbo_eco:0 "Chen Gongbo"
- CHI_Zhou_Fohai_eco:0 "Zhou Fohai"
- CHI_Li_Shengwu_for:0 "Li Shengwu"
- CHI_Zhou_Longxiang_for:0 "Zhou Longxiang"
- CHI_Ye_Peng_sec:0 "Ye Peng"
- CHI_Xiao_Shuxuan_sec:0 "Xiao Shuxuan"
- CHI_Mei_Siping_sec:0 "Mei Siping"
- CHI_Zhou_Xuechang_sec:0 "Zhou Xuechang"
+ CHI_Gao_Zongwu_hog:0 "Gao Zongwu가오종우"
+ CHI_Chen_Gongbo_eco:0 "Chen Gongbo첸공보"
+ CHI_Zhou_Fohai_eco:0 "저우포하이"
+ CHI_Li_Shengwu_for:0 "리솅우"
+ CHI_Zhou_Longxiang_for:0 "저우롱샹Zhou Longxiang"
+ CHI_Ye_Peng_sec:0 "Ye Peng예펭"
+ CHI_Xiao_Shuxuan_sec:0 "Xiao Shuxuan샤오 쓰완"
+ CHI_Mei_Siping_sec:0 "Mei Siping메이시핑"
+ CHI_Zhou_Xuechang_sec:0 "Zhou Xuechang조스창"
 
  #Dynamic Modifiers
  CHI_research_dynamic_modifier:0 "Improved Research Capabilities"
- CHI_coop_mil_dynamic_modifier:0 "Military Cooperation with the Sphere"
- CHI_coop_research_dynamic_modifier:0 "Research Cooperation with the Sphere"
- CHI_coop_econ_dynamic_modifier:0 "Economic Cooperation with the Sphere"
+ CHI_coop_mil_dynamic_modifier:0 "공영권과의 군사적 협력Military Cooperation with the Sphere"
+ CHI_coop_research_dynamic_modifier:0 "공영권과의 연구협력Research Cooperation with the Sphere"
+ CHI_coop_econ_dynamic_modifier:0 "공영권과의 경제협력Economic Cooperation with the Sphere"
 
  #Opinion Modifiers 
- CHI_placed_troops_on_YUN_border:0 "Has stationed Troops along the Southwestern Border"
+ CHI_placed_troops_on_YUN_border:0 "남서쪽 국경을 따라 군대를 배치했습니다.Has stationed Troops along the Southwestern Border"
  CHI_investigate_YUN:0 "Investigated [YUN.GetName]"
- CHI_econ_links_trade_YUN:0 "Established Economic Links with [YUN.GetName]"
- CHI_sabotaged_japanophiles:0 "Japanophile Faction sabotaged"
+ CHI_econ_links_trade_YUN:0 "Established Economic Links with [YUN.GetName]와의 경제적 연결"
+ CHI_sabotaged_japanophiles:0 "친일파 사보타주 당함Japanophile Faction sabotaged"
 # CHI_investigate_YUN:0 "Has investigated Xinan" #duplicate loc key
 
  #Events
  #China Central Gov
 
- chi.1.t:0 "The Five Modernizations"
+ chi.1.t:0 "5대 현대화"
  chi.1.d:0 "Drawn up as Gao's ultimate dream for China, the Five Modernizations are his plans to overhaul and modernize China's industrial, educational, military, research, and national capabilities. Finally, after years of elaborating, editing, and finalizing the designs for the greatest governmental push in recent Chinese history, the modernizations are waiting to begin.\n\nHowever, all is not well in Gao's realm; the Japanese may not be happy with the Chinese transforming further then their breadbasket, and the process will certainly be painful. Progress comes with change, and with change there are those who are left behind. In the end, those who have sacrificed their lives for the Chinese dream will be honored. Until then, we must tread carefully as we navigate the Five Modernizations.\n\nA call for national renewal has been sent by Gao, and efforts are already underway. In a matter of years, China will be a modern nation, one to be envied and not pitied." 
  chi.1.a:0 "We will take back our place in the world."
 
